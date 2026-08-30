@@ -29,19 +29,58 @@ I'm a B.Tech CSE(DS)student passionate about building real-world software applic
 - Git
 - GitHub
 - AWS
+  
 
-## 📌 Current Focus
+🚀 Projects
+🧮 Python Calculator
 
-- Building Django web applications
-- Developing REST APIs
-- Working with SQL databases
-- Learning AWS deployment
-- Improving problem-solving and DSA
-- Building projects for internship opportunities
+A simple command-line calculator built using Python.
 
-## 🎯 Career Goal
+Features:
 
-To become a skilled Software Engineer and contribute to real-world projects while continuously learning and improving my technical skills.
+Addition
+Subtraction
+Multiplication
+Division
+Division by zero handling
+Menu-driven interface
+While loop
+
+🔗 Check out my repositories to see my projects and learning progress.
+
+
+📚 Learning Journey
+
+I'm currently focusing on:
+
+Python Basics
+     ↓
+Problem Solving
+     ↓
+Python Projects
+     ↓
+SQL
+     ↓
+HTML + CSS + JavaScript
+     ↓
+Django
+     ↓
+REST APIs
+     ↓
+Full-Stack Development
+
+I'm learning by building projects, making mistakes, fixing them, and improving my code.
+
+
+🎯 Goals
+Build strong programming fundamentals
+Create more Python projects
+Learn backend development with Django
+Learn databases and SQL
+Build full-stack applications
+Contribute to open-source projects
+Get a software development internship
+
 
 ## 📫 Connect With Me
 
@@ -49,4 +88,8 @@ To become a skilled Software Engineer and contribute to real-world projects whil
 
 ---
 
-⭐ Thanks for visiting my profile!
+📈 My Progress
+
+Learning every day. Building one project at a time. 🚀
+
+Thanks for visiting my profile! 😊
