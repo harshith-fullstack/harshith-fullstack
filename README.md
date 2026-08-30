@@ -1,4 +1,4 @@
-# Hi 👋, I'm Harshith Reddy
+# Hi 👋, I'm Kamidi Harshith Reddy
 
 ### 💻 Aspiring Software Engineer | Python Full Stack Developer
 
