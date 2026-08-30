@@ -54,19 +54,19 @@ While loop
 I'm currently focusing on:
 
 Python Basics
-     ↓
+     ->
 Problem Solving
-     ↓
+     ->
 Python Projects
-     ↓
+     ->
 SQL
-     ↓
+     ->
 HTML + CSS + JavaScript
-     ↓
+     ->
 Django
-     ↓
+     ->
 REST APIs
-     ↓
+     ->
 Full-Stack Development
 
 I'm learning by building projects, making mistakes, fixing them, and improving my code.
