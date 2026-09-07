@@ -30,23 +30,33 @@ I'm a B.Tech CSE(DS)student passionate about building real-world software applic
 - GitHub
 - AWS
   
+📌 Featured Projects
 
-🚀 Projects
-🧮 Python Calculator
 
-A simple command-line calculator built using Python.
+💰 Personal Expense Tracker
 
-Features:
+Python CLI application for recording personal expenses and calculating total spending.
 
-Addition
-Subtraction
-Multiplication
-Division
-Division by zero handling
-Menu-driven interface
-While loop
+🏦 ATM Simulator
 
-🔗 Check out my repositories to see my projects and learning progress.
+Console-based ATM application demonstrating PIN validation, transactions, balance management and loops.
+
+📝 Student Marks Calculator
+
+Python application that calculates total marks, average, percentage and grades.
+
+🔐 Personal Data Masking System
+
+Python file-handling project that masks sensitive information such as phone numbers and dates of birth using Regex.
+
+🏦 Mini Bank Management System
+
+Python-based banking application demonstrating basic banking operations and programming fundamentals.
+
+🎯 Number Guessing Game
+
+Interactive Python game using random numbers, loops and conditional logic.
+
 
 
 📚 Learning Journey
